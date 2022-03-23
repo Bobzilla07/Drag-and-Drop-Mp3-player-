@@ -72,10 +72,16 @@ canvas {
 
 
 audio::-webkit-media-controls-panel {
-     background-color: #d9c64e;
+     background-color: #E29D70;
      color: #000;
      }
 
+audio {
+  width: 820px;
+  position: fixed;
+  top: 400px;
+  margin-left: 23%;
+  height: 150px;
+}
 
-
-
+//d9c64e nice yellow
